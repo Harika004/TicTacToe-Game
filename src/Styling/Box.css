@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.icon-height{
+    width: 32px;
+    height:32px;
+}
